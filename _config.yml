@@ -1,0 +1,8 @@
+title: 主页
+description: 日常技术记录
+theme: minima
+lang: zh-CN
+timezone: Asia/Shanghai
+
+header_pages:
+  - about.md
